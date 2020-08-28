@@ -1,5 +1,5 @@
 # Whatsapp Clone by parduccinward
-This Whatsapp Clone has academic purposes, it been created for starting to learn nowadays technology, 
+This Whatsapp Clone has academic purposes, it has been created for starting to learn nowadays technology, 
 especially React, so feel free to check it out and give it a try as you want!
 
 Whatsapp Clone tiene fines academicos, fue creado para empezar a aprender la tecnología mas usada hoy en día,
